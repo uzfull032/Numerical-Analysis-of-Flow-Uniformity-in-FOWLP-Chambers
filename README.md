@@ -37,7 +37,12 @@ This study explores the flow characteristics within a soft bake chamber for the 
 
 ## 🖼️ Representative Figures
 
-You can find the simulation results in the [`FOWLP_Simulation_Summary.pdf`](./FOWLP_Simulation_Summary.pdf) file which includes:
+<p align="left">
+  <img width="604" height="506" alt="image" src="https://github.com/user-attachments/assets/89500a91-83de-4ab3-a72e-067d7cbf63dd" />
+  <img width="604" height="506" alt="image" src="https://github.com/user-attachments/assets/3cee4401-174d-43b8-aaa0-fc017c82f17a" />
+  <img width="604" height="506" alt="image" src="https://github.com/user-attachments/assets/fca3b40b-6abd-4c67-b389-e31b66078602" />
+  <img width="604" height="506" alt="image" src="https://github.com/user-attachments/assets/142be1f9-a73b-4cb9-9636-37b2c2db0b6b" />
+</p>
 
 - Velocity and pressure contours
 - Graphs of velocity/pressure by radial range
