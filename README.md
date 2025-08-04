@@ -14,9 +14,12 @@ This study explores the flow characteristics within a soft bake chamber for the 
 ## 📐 Mathematical Model
 
 - **Turbulence Model**: Realizable *k–ε* model
--<p align="left"><img width="633" height="166" alt="image" src="https://github.com/user-attachments/assets/9d1e4a75-1fc1-45b3-9253-ed5f16536330" />
+<p align="left"><img width="633" height="166" alt="image" src="https://github.com/user-attachments/assets/9d1e4a75-1fc1-45b3-9253-ed5f16536330" />
 
 - **Boundary Conditions**:
+  - Original overall structure
+  <p align="left"><img width="674" height="196" alt="image" src="https://github.com/user-attachments/assets/46f54edd-9d1a-465c-930c-3cb68f3834c2" />
+
   - Inlet pressure: 100 kPa
   - Outlet pressure: 0.05 or 0.15 kPa
   - Periodic boundary conditions (30°, 45°, 90° sectors)
@@ -49,3 +52,8 @@ This study explores the flow characteristics within a soft bake chamber for the 
 - Comparison between hole and slit inlet designs with/without baffles
 
 ---
+## ✅ Conclusion
+
+- Baffle structures significantly enhance flow stability and uniformity.
+- The slit-type inlet with baffle exhibited the most favorable conditions for soft bake processes.
+- These findings can guide chamber design for more reliable thermal processing in semiconductor manufacturing.
